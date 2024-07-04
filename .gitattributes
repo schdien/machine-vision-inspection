@@ -1,3 +1,6 @@
+*.cs linguist-language=csharp
+*.xaml linguist-language=xaml
+
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
